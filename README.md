@@ -37,3 +37,24 @@ Maybe all this seems obvious to you, in which case, you’re lucky. For me, I’
 
 # bio :
 ### my name is mamoun alshishani,i'm 24 years old i graduated from al balqa university with bachelor degree in management information system, for contact please email me at mamoun.alshishani@yahoo.com,lets be friends!.
+read#  |    link
+--------------|---------------
+
+---------|---------
+read 1  |   [link1](https://mamoun-kamal-alshisani.github.io/read-notes/)
+read 2  |   [link2]()
+read 3  |   [link3]()
+read 4  |   [link4]()
+read 5  |   [link5]()
+read 6  |   [link6]()
+read 7  |   [link7]()
+read 8  |   [link8]()
+read 9  |   [link9]()
+read 10 |   [link10]()
+read 11 |   [link11]()
+read 12 |   [link12]()
+read 13 |   [link13]()
+read 14 |   [link14]()
+read 15 |   [link15]()
+  
+ 
