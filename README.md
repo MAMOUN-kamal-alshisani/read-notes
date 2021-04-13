@@ -1,25 +1,4 @@
-# reading-notes
-# reading note
-# h1
-## h2
-### h3
-#### h4
-##### h5
-###### h6
 
-## class 102
-## order list
-1. first
-2. second
-3. third
-## unorder list
-* first
-* second
-* third
-## an image link
-# ![work hard](https://i.pinimg.com/originals/0c/ed/33/0ced3349264a3e4c210e2ad350cf09f8.jpg)
-## adding links:
-## [work hard site](https://www.becomingminimalist.com/work-hard/)
 
 ## first mind growth : 
 mind growth is very important in our life because it is what makes us grow and learn in life, A growth mindset is when students understand that their abilities can be developed.
