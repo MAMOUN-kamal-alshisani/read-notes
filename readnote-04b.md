@@ -1,1 +1,11 @@
 
+## readnote-04b---how computers work :
+**computers are revolutionary inventions they represent information using electicity at mind blowing speed!! and when i computers i mean not just pc or laptop no! any device that works on electricity and is used to see information, share information, deal with information so fast in anyway possible.**
+ #### surprisingly the early computers were so big and slow that one could'nt believe the changes it went through with every generation, now look at the phone you have in your hand so advanced and easy to use completing tasks so fast.
+ #### and certainly it's not just that you can complete tasks or do work, you can watch a videos ,pictures ,internet, save etc...
+ #### computers use binary numbers -0- and -1- to even represent data and videos and pictures and so on!!
+ ### What is circuits and logic?
+#### Computers often chain logic gates together, by taking the output from one gate and using it as the input to another gate. We call that a logic circuit. Circuits enables computers to do more complex operations than they could accomplish with just a single gate. The smallest circuit is a chain of 2 logic gates.
+ #### CPU : is the part that executes instructions. It has a few (1 to dozens) of very fast places to hold information being worked on. These are called registers. Instructions that do calculations leave their results in a register. Depending on the computer architecture, the inputs to a calculation instruction come from a register and/or memory.
+#### Memory : holds most information, the program's instructions and data. Its size can vary from a few hundred bytes to terabytes. Each byte of memory has an address that can be used to load information from it or to store information to it.
+#### Computer hardware is any physical device used in or with your machine, whereas software is a collection of codes installed onto your computer's hard drive. ... Word processing software uses the computer processor, memory, and hard drive to generate and save documents. In a computer, hardware is what makes a computer work.
