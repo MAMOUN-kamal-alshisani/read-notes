@@ -11,8 +11,8 @@
 
 
 		
-      <img src="https://cdn.lynda.com/course/182177/182177-637509923681548950-16x9.jpg">
-			 <a href="https://en.wikipedia.org/wiki/HTML5">check it out !</a></li>
+    ** "https://cdn.lynda.com/course/182177/182177-637509923681548950-16x9.jpg"
+			"https://en.wikipedia.org/wiki/HTML5"!
       
 
         
