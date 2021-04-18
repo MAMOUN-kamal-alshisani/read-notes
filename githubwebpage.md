@@ -10,7 +10,7 @@
 
 # Renaming/Removing Remotes
 ### Rename
-
+ very exeting 
 **To rename a remote’s short name, use the git remote rename command.**
 
 **Example:**
@@ -23,6 +23,6 @@
 
 **jane**
 ***In the example above, we can see that the remote’s short name has been changed from js to Jane. The command git remote lists our existing remotes, which jane is now one of. The rename action also alters names of remote branches: js/master would change to jane/master.**
-
+*very nice*
 
 [github!](https://blog.udemy.com/git-tutorial-a-comprehensive-guide)
