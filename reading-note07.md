@@ -1,6 +1,6 @@
 # Read: 07 - Design web pages with CSS:
 *CSS allows you to create rules that specify how the content of an element should appear.
- For example, you can specify that the background of the page is cream,all paragraphs should appear in gray using the Arial typeface,or that all level one headings should be in a blue,italic, Times typeface *.
+ For example, you can specify that the background of the page is cream,all paragraphs should appear in gray using the Arial typeface,or that all level one headings should be in a blue,italic, Times typeface*.
 ### Foreground Color:
 *The color property allows you to specify the color of text inside an element. You can specify any color in CSS in one of three ways:*
 * rgb values These express colors in terms of how much red, green and blue are used to make it up.
